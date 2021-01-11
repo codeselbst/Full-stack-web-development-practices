@@ -3,7 +3,7 @@
 The idea behind this webpage is all surrounded about SDGs. You can click the link and see the current performance of each country and also I have added one example about a company from Sweden which issues creditcards with the function of calculation the CO2 footprint. Lastly, the youtube video is the introduction to this concept.
 
 ## Outcome
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/74449345/104157550-b6fa0700-542e-11eb-8b13-844b00d32f16.png" width="300">
 
 Here is my code:
 ```
