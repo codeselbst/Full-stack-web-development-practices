@@ -1,7 +1,7 @@
 # Exercises for Full stack web development Tutorial Course
 This repository is where you can find some really easy samples for the mentioned videos.
 
-## Summary
+# Summary
 
 This time I have learnt how to use CSS to edit and manage more properties of different parameters. Although, the webpage is quite simple, it's an basic idea of how to use (external) CSS.
 
