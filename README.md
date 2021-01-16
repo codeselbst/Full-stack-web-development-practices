@@ -8,6 +8,10 @@ The idea behind this webpage is all surrounded about SDGs. You can click the lin
 ## Outcome
 <img src="https://user-images.githubusercontent.com/74449345/104157550-b6fa0700-542e-11eb-8b13-844b00d32f16.png" width="300">
 
+## Acknowledgments
+
+* The videos are from MERN Stack Web Development Tutorial Course/ [See their channel](https://www.youtube.com/channel/UCDsEHTvh-YO80AZna7X7UVA)
+
 Here is my code:
 ```
 <!DOCTYPE html>
