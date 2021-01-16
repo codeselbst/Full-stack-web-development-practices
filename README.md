@@ -1,3 +1,6 @@
+# Exercises for Full stack web development Tutorial Course
+This repository is where you can find some really easy samples for the mentioned videos.
+
 ## Summary
 
 The idea behind this webpage is all surrounded about SDGs. You can click the link and see the current performance of each country and also I have added one example about a company from Sweden which issues creditcards with the function of calculation the CO2 footprint. Lastly, the youtube video is the introduction to this concept.
