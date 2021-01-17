@@ -12,7 +12,7 @@ Lastly, the handylink file consists some helpful links you may need during the w
 <img src="https://user-images.githubusercontent.com/74449345/104835434-07b7a700-58ea-11eb-88e9-c0979bc38eb6.gif" width="300">
 
 ### News
-<img src="https://user-images.githubusercontent.com/74449345/104835434-07b7a700-58ea-11eb-88e9-c0979bc38eb6.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74449345/104835624-3c782e00-58eb-11eb-9f38-792fbdb39b1f.gif" width="300">
 
 ### Contact
 <img src="https://user-images.githubusercontent.com/74449345/104835434-07b7a700-58ea-11eb-88e9-c0979bc38eb6.gif" width="300">
