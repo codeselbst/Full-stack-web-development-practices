@@ -8,7 +8,7 @@ The whole structure is identical to what you can see in the videos; however, I h
 Lastly, the handylink file consists some helpful links you may need during the webpage coding.
 
 ## Outcome
-<img src="https://user-images.githubusercontent.com/74449345/104796320-89c7a300-57f8-11eb-9e77-8f553f3c5cae.png" width="300">
+<img src="https://user-images.githubusercontent.com/74449345/104835434-07b7a700-58ea-11eb-88e9-c0979bc38eb6.gif" width="300">
 
 ## Acknowledgments
 
