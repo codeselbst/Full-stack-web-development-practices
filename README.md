@@ -18,7 +18,7 @@ Lastly, the handylink file consists some helpful links you may need during the w
 <img src="https://user-images.githubusercontent.com/74449345/104835688-9973e400-58eb-11eb-9623-98d7ff660ca3.gif" width="300">
 
 ### About
-<img src="https://user-images.githubusercontent.com/74449345/104835434-07b7a700-58ea-11eb-88e9-c0979bc38eb6.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74449345/104835693-a395e280-58eb-11eb-9c2d-64ad59af4473.gif" width="300">
 
 
 ## Acknowledgments
