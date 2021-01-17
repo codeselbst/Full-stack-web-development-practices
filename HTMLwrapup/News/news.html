@@ -1,0 +1,159 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <title>Festival kostüm</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <nav>
+        <ul class="topnav" id="dropdownClick">
+            <li><a href="../homepage/htmlwrapup.html">Home</a></li>
+            <li><a href="news.html">News</a></li>
+            <li><a href="../Contacts/contact.html">Contact</a></li>
+            <li><a href="../About/about.html">About</a></li>
+            <li class="topnav-right"><a href="#signup">Sign Up</a></li>
+            <li class="topnav-right"><a href="#signin">Sign In</a></li>
+            <li class="dropdownIcon"><a href="javascript:void(0);" onclick="dropdownMenu()">&#9776</a></li>
+        </ul>
+    </nav>
+
+    <div class="container" id="section-1-gradient">
+        <div class="row">
+            <div class="col-6">
+                <div class="leftside-col">
+                    <h1 class="large">Crazy Radness</h1>
+                    <h1 class="large">Made for Developers</h1>
+                </div>
+                <form>
+                    <div class="leftside-col">
+                        <h2>Username</h2>
+                        <input class="inputbox" name="username" type="text" placeholder="Username">
+                        <h2>Password</h2>
+                        <input class="inputbox" name="password" type="text" placeholder="Password">                        
+                    </div>
+                </form>
+            </div>
+            <div class="col-6">
+                <div class="rightside-col">
+                    <div class="videocontainer">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/bbE8Wn8r5GU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+
+    <header>
+        <h1 class="section2Header">See what's going on here!</h1>
+    </header>
+    <div class="container">
+        <div class="row">
+            <div class="col-4">
+                <div class="box">
+                    <div class="icon">
+                        <img class="insertIcon" src="../img/mask.jpeg" >
+                    </div>
+                    <label>Facemasks</label>
+                    <p>
+                        Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
+                    </p>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="box">
+                    <div class="icon">
+                        <img class="insertIcon" src="../img/gloves.jpeg" >
+                    </div>
+                    <label>Gloves</label>
+                    <p>
+                        Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
+                    </p>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="box">
+                    <div class="icon">
+                        <img class="insertIcon" src="../img/hat.jpeg" >
+                    </div>
+                    <label>Beanies</label>
+                    <p>
+                        Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <button class="learnMore">Learn More</button>
+            </div>
+        </div>
+    </div>
+<hr>
+ <div class="container">
+     <div class="row">
+             <div class="col-7">
+        <article>
+            <p>Your client is a clothing brand that is looking for a simple web app to use in their warehouses. To do their work efficiently, the warehouse workers need a fast and simple listing page per product category, where they can check simple product and availability information from a single UI. There are three product categories they are interested in for now: gloves, facemasks, and beanies. Therefore, you should implement three web pages corresponding to those categories that list all the products in a given category. One requirement is to be easily able to switch between product categories quickly. You are free to implement any UI you want, as long as it can display multiple products at once in a straightforward and explicit listing. At this point, it is not necessary to implement filtering or pagination functionality on the page.</p>
+        </article>
+    </div>
+    <div class="col-5">
+        <div class="slopeIcon">
+            <img src="../img/summer.jpg">
+        </div>
+    </div>
+     </div>
+ </div>
+
+<footer class="footsy">
+    <div class="row">
+        <div class="col-3 mobilestack">
+            <h1>Company</h1>
+            <ul>
+                <li>About</li>
+                <li>Blogs</li>
+                <li>Careers</li>
+            </ul>
+        </div>
+        <div class="col-3 mobilestack">
+            <h1>Company</h1>
+            <ul>
+                <li>About</li>
+                <li>Blogs</li>
+                <li>Careers</li>
+            </ul>
+        </div>
+        <div class="col-3 mobilestack">
+            <h1>Company</h1>
+            <ul>
+                <li>About</li>
+                <li>Blogs</li>
+                <li>Careers</li>
+            </ul>
+        </div>
+        <div class="col-3 mobilestack">
+            <h1>Company</h1>
+            <ul>
+                <li>About</li>
+                <li>Blogs</li>
+                <li>Careers</li>
+            </ul>
+        </div>
+    </div>
+</footer>
+
+<script>
+    function dropdownMenu() {
+        var x = document.getElementById("dropdownClick");
+        if (x.className === "topnav") {
+            x.className += " responsive";
+        } else {
+            x.className = "topnav";
+        }
+    }
+</script>
+
+</body>
+</html>
