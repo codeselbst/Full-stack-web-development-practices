@@ -7,6 +7,9 @@ In this section, the instructor taught some basic concept of Javascript language
 
 ## Outcome
 
+<img src="https://github.com/codeselbst/Full-stack-web-development-practices/issues/3#issuecomment-765863234" width="300">
+<img src="https://github.com/codeselbst/Full-stack-web-development-practices/issues/3#issuecomment-765863269" width="300">
+<img src="https://github.com/codeselbst/Full-stack-web-development-practices/issues/3#issuecomment-765863302">
 
 ## Acknowledgments
 
