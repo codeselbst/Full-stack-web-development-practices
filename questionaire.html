@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Landing Mars Master Program</title>
+        <link rel="stylesheet" href="arrangement.css">
+    </head>
+    <body>
+        <form id="nextHugeStepForHumanbeings">
+            <h3>Personal Information</h3>
+            <p>First Name: <input type="text" id="first">
+               Last Name: <input type="text" id="last"></p>
+            <p>Sex: <input type="radio" name="sex" value="male">Male
+                    <input type="radio" name="sex" value="female">Female</p>
+            <p>Nationality: <select name="nationality" onchange="countrySubmit(this)">
+                <option value="Canada">Canada</option>
+                <option value="France">France</option>
+                <option value="Germany">Germany</option>
+                <option value="Italy">Italy</option>
+                <option value="Japan">Japan</option>
+                <option value="United Kingdom">Unite Kingdom</option>
+                <option value="United States">United States</option>
+            </select></p>
+            <h3>Education Background</h3>
+            <p>Academic Qualification <select name="acadmic qualification" onchange="educationSubmit(this)">
+                <option value="associate">Foundation Degree</option>
+                <option value="bachelor">Bachelor's Degree</option>
+                <option value="master">Master's Degree</option>
+                <option value="doctor">Doctoral Degree</option>
+            </select></p>
+            <h3>Language Skills </h3>
+            <label for="checkAllLan"><input type="checkbox" onclick="checkAll_lan(this)" id="checkAllLan"> Select All</label>
+                <input type="checkbox" name="language" value="Chinese" id="lan">Chinese
+                <input type="checkbox" name="language" value="Spanish" id="lan">Spanish
+                <input type="checkbox" name="language" value="English" id="lan">English
+                <input type="checkbox" name="language" value="Hindi" id="lan">Hindi
+                <input type="checkbox" name="language" value="Arabic" id="lan">Arabic
+            <h3>Digital Skills</h3>
+            <label for="checkAllDig"><input type="checkbox" onclick="checkAll_dig(this)" id="checkAllDig"> Select All</label>
+                <input type="checkbox" name="programming" value="python" id="dig">Python
+                <input type="checkbox" name="programming" value="javascriipt" id="dig">JavaScript
+                <input type="checkbox" name="programming" value="java" id="dig">Java
+                <input type="checkbox" name="programming" value="C#" id="dig">C#
+                <input type="checkbox" name="programming" value="C" id="dig">C
+            <h3>Motivation</h3>
+            <textarea name="comments" id="comment" cols="50" rows="10" placeholder="Describe why you want to apply for this program."></textarea>
+                <input type="submit" value="Submit">
+                <input type="reset" value="Cancel">
+            <h2>Confirm your Information</h2>
+            <div class="summary">
+                I am <p id="firstName"> </p><p id="lastName"></p>(<p id="sex"></p>). My nationality is <p id="nationality"></p>.
+                I hold a <p id="education"></p> degree. I can speak <p id="language"></p>.
+                The reason I would like to apply for this program is <p id="motivation">.</p>
+            </div>
+            <button type="submit" value="submit" onclick="confirm(this)">Confirm</button>
+
+        </form>
+        <script type="text/javascript" src="questionaire.js"></script>
+    </body>
+</html>
