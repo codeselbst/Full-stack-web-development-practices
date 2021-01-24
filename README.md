@@ -5,7 +5,7 @@ This repository is where you can find some really easy samples for the mentioned
 This time, the website is mainly built with the help of front-end open source toolki, Bootstrap. 
 
 ## Outcome
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/74449345/105627048-9642a000-5e77-11eb-947a-b0d4dfd55de6.gif" width="300">
 
 Here is my code. (css style and photos are saved in the additional files)
 ```
