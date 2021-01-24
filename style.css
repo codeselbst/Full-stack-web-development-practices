@@ -1,0 +1,42 @@
+.container-fluid {
+    display: block;
+    margin: auto;
+}
+
+.section-description {
+    background-color:#dfe6df;}
+
+.jumbotron {
+    margin-bottom: 0;
+}
+.section-category {
+    background-color: #e6e7e6;
+}
+.row.imgPad {
+    padding-top: 1rem ;
+}
+
+button.btnCenter {
+    display: block;
+    margin: auto;
+}
+.buttonWrapper {
+    margin-top: 2px;
+}
+.sectionWrapper {
+    padding: 2%;
+}
+iframe.video-fluid {
+    display: block;
+    margin: auto;
+}
+.size {
+    width: 50%;
+}
+.bg-inverse {
+    background-color:white;
+}
+.socialWrapper {
+    margin: auto;
+}
+
