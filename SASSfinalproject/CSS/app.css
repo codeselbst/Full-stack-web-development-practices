@@ -1,0 +1,215 @@
+.center-block, .banner-video-img, .poster-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto; }
+
+body {
+  font-family: "Hachi Maru Pop", serif;
+  font-size: 1rem;
+  line-height: 1.25; }
+
+.row {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  align-items: flex-end; }
+
+.row::after {
+  display: table;
+  clear: both; }
+
+.col-1 {
+  width: 8.3%; }
+
+.col-2 {
+  width: 16.66%; }
+
+.col-3 {
+  width: 25%; }
+
+.col-4 {
+  width: 33.33%; }
+
+.col-5 {
+  width: 41.66%; }
+
+.col-6 {
+  width: 50%; }
+
+.col-7 {
+  width: 58.33%; }
+
+.col-8 {
+  width: 66.66%; }
+
+.col-9 {
+  width: 75%; }
+
+.col-10 {
+  width: 83.33%; }
+
+.col-11 {
+  width: 91.66%; }
+
+.col-12 {
+  width: 100%; }
+
+* {
+  box-sizing: border-box; }
+
+.container {
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block; }
+
+.banner-container {
+  padding: 40px 0;
+  background-color: #121112; }
+
+.splitter-container {
+  padding: 50px 0 50px;
+  background-color: #161e81;
+  text-align: center; }
+
+.about-container {
+  background-color: #bbbee9;
+  padding: 70px 0;
+  min-height: 540px; }
+
+.home-title {
+  font-size: 40px;
+  margin: -50px 0 20px;
+  color: #eed9e8;
+  font-family: "Hachi Maru Pop", serif; }
+
+.banner-text, .video-text {
+  font-size: 1.25rem;
+  margin: 0 0 20px;
+  color: #bbbee9;
+  font-family: "Potta One", -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Yu Gothic", YuGothic, Verdana, Meiryo, "M+ 1p", sans-serif;
+  padding: 25px;
+  line-height: 1.7; }
+
+.video-text {
+  line-height: 1; }
+
+.banner-video {
+  margin: 0 auto 15px;
+  box-shadow: 0 0 0 5px rgba(0, 0, 0, 0.3); }
+
+.about-title {
+  font-size: 2rem;
+  margin: 10px;
+  text-align: center;
+  color: #eed9e8; }
+
+.about-text {
+  margin: 0 20px 50px;
+  text-align: center;
+  color: black;
+  letter-spacing: normal;
+  font-family: "Hachi Maru Pop", serif; }
+
+#page-footer {
+  clear: both;
+  padding: 25px 0 40px;
+  position: relative;
+  width: 100%;
+  overflow: hidden; }
+
+.footer-container {
+  padding: 0 10%; }
+  .footer-container .sunny-footer {
+    font-size: 1rem;
+    font-weight: 200; }
+    .footer-container .sunny-footer .footer-wrapper {
+      display: inline-block;
+      padding: 10px 0;
+      flex-wrap: wrap;
+      cursor: pointer; }
+
+.footer-link {
+  margin-right: 36px;
+  color: #161e81;
+  text-decoration: none; }
+  .footer-link:hover {
+    color: #121212; }
+
+.nav-header {
+  padding: 0 0 10px; }
+  .nav-header .container {
+    padding: 10px 15px 0;
+    margin-left: auto;
+    margin-right: auto; }
+
+.nav-menu {
+  float: right;
+  margin: 5px 0 0; }
+  .nav-menu .nav-menu-list {
+    font-size: 1.25rem;
+    margin: 0;
+    padding: 0;
+    list-style: none; }
+    .nav-menu .nav-menu-list .nav-item {
+      display: inline-block;
+      margin: 0;
+      vertical-align: top; }
+      .nav-menu .nav-menu-list .nav-item .nav-a {
+        display: block;
+        padding: 5px 10px;
+        text-decoration: none;
+        color: #121212;
+        border: 1px solid transparent;
+        text-transform: uppercase; }
+        .nav-menu .nav-menu-list .nav-item .nav-a:hover {
+          color: #d0cbcb; }
+
+.banner-video-img {
+  width: 100%;
+  padding: 30px 0 40px; }
+
+.img-item {
+  display: inline-block;
+  margin: 0 10px 40px;
+  vertical-align: middle;
+  max-width: 10%;
+  background-color: transparent; }
+
+.img-text {
+  margin: 0 10px 40px;
+  text-align: center;
+  color: #bbbee9;
+  max-width: 5%; }
+
+.img-footer {
+  margin: 10px;
+  max-width: 50%; }
+
+.poster-img {
+  border-radius: 10px;
+  width: 100%;
+  box-shadow: 0 0 0 5px rgba(0, 0, 0, 0.3); }
+
+.logo {
+  display: inline-block;
+  width: 50%; }
+
+.btn {
+  display: inline-block;
+  background-color: #d0cbcb;
+  color: #121212;
+  font-weight: normal;
+  line-height: 1.25;
+  text-align: center;
+  font-size: 1rem;
+  vertical-align: middle;
+  border: 1px solid transparen;
+  transition: all, 0.8s ease-in-out;
+  border-radius: 10px;
+  padding: 1rem;
+  font-size: 1rem;
+  border-radius: 10px; }
+
+/*# sourceMappingURL=app.css.map */
