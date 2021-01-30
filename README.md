@@ -12,7 +12,7 @@ This time, I used SASS as a compile tool to make styles more organized. The proj
 
 The theme is "ONE PIECE", one of the most well-known animations from Japan!
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/74449345/106352437-7d7a3480-6326-11eb-96a9-1dfdf10516fd.gif" width="300">
 
 ## Acknowledgments
 
