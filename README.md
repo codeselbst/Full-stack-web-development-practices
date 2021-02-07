@@ -5,6 +5,7 @@ This repository is where you can find some really easy samples for the mentioned
 The final project of this course combined all what we have learned so far, including HTML with Bootstrap, API calling, setting up localhost server, and then quick build React app. It calls Json data from our database (mongo-localhost) and creates three items with button to add or remove to another list. Practical and useful project overall!!
 
 | Structure | 
+| --------- |
           |__React
              |__node_modules
              |__public
