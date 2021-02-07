@@ -7,7 +7,7 @@ Video 102-112 consists basic API request and response web data. This section Mon
 
 
 Here is my code.
-'''
+```
 //dont forget to install express body-parser mongoose package before running the project
 var express = require('express');
 var bodyParser = require('body-parser');
@@ -51,10 +51,9 @@ app.listen(3000, function () {
     console.log('first api connected..')
 });
 
-'''
-
-'''
-//I put project.js in a folder called 'model'
+```
+I put project.js in a folder called 'model'
+```
 var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 
@@ -66,7 +65,7 @@ var product = new Schema({
 });
 
 module.exports=mongoose.model('Product', product);
-'''
+```
 
 ## Acknowledgments
 
