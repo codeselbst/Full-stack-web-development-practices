@@ -22,8 +22,6 @@ The final project of this course combined all what we have learned so far, inclu
                   |     |__watchlist.js
                   |__app.js
 
-```
-```
 
 ## Acknowledgments
 
