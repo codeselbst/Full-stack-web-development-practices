@@ -8,6 +8,22 @@ The final project of this course combined all what we have learned so far, inclu
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
+Structure__
+          |__React
+             |__node_modules
+             |__public
+             |  |__index.html
+             |__public
+                  |__src
+                  |  |__product
+                  |     |__product.js
+                  |  |__service
+                  |     |__data_service.js
+                  |     |__http_service.js
+                  |     |__notification.js
+                  |  |__watchlist
+                  |     |__watchlist.js
+                  |__app.js
 
 ```
 ```
