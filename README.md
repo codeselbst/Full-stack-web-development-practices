@@ -142,7 +142,7 @@ export default Product;
 data_service.js
 The class is created with multiplie functions used in productcondensed.js.
 ```
-import notificationService, {NOTIF_WATCHLIST_CHANGED} from './notification'; //順序不能換
+import notificationService, {NOTIF_WATCHLIST_CHANGED} from './notification'; 
 
 let ns= new notificationService();
 let instance = null;
